@@ -2,9 +2,7 @@
 ### Terminal and Command Line Tips
 This might be a little messing while things are getting introduced.
 
-
-
-
+<br>
 ###Navigating
 ```cd``` takes you to a new place, folder, and/or directory
 
@@ -12,9 +10,7 @@ This might be a little messing while things are getting introduced.
 
 ```cmd+shift+.``` brings your command line back up
 
-
-
-
+<br>
 ###Create New Files or Folders
 ```mkdir``` will create a new directory/folder
 
@@ -24,12 +20,11 @@ You can create mutiple directories using a single command ```mkdir css img js```
 
 You can create multiple files with one command using ```touch index.html about.html contact.html```
 
-
-
+<br>
 ###Remove Files or Folders
 ```rm -r directoryName``` will delete the folder and everything inside of it
 
-
+<br>
 ###Opening or Viewing
 ```open path/file``` will open the file in the default browser/application
 
