@@ -26,6 +26,10 @@ You can create multiple files with one command using ```touch index.html about.h
 
 
 
+###Remove Files or Folders
+```rm -r directoryName``` will delete the folder and everything inside of it
+
+
 ###Opening or Viewing
 ```open path/file``` will open the file in the default browser/application
 
